@@ -21,4 +21,3 @@ Navigation Component | 2.6.0
 Slider UI |
 ------------- |
 <a><img src="https://github.com/cengizhanerturan/kotlin_custom_view_slider/blob/main/app_gifs/custom_view_slider.gif" width="200" height="400" /></a> |
-
